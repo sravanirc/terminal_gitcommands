@@ -1,4 +1,4 @@
-vi filename - creates a new file, press i to insert content
+vi filename - creates a new file, press i to insert content, shift ZZ to exit file
 cat filename - reads the contents of a file
 cp originalfile targetcopyfile - copies contents
 clear - clears terminal

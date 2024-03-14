@@ -1,0 +1,7 @@
+git init - to convert working dir to got repo
+git config user.name newusernname = can be used to set up username of git account
+git config user.email newemail = can change email address to email of git account
+git add . : adds all changes to stage
+git status : shows all the chages made 
+git commit -m "message" - this commits all changes so far
+git restore --staged : will reverse all the staged so far
