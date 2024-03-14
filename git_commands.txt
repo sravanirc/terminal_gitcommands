@@ -5,3 +5,6 @@ git add . : adds all changes to stage
 git status : shows all the chages made 
 git commit -m "message" - this commits all changes so far
 git restore --staged : will reverse all the staged so far
+git remote add origin path : links the remote repository from website to loal repo as 'Origin'
+git branch -M main : changes working branch to main branch  
+git push -u origin main = uploads latest commits to remote origin main branch 
