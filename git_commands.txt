@@ -7,4 +7,7 @@ git commit -m "message" - this commits all changes so far
 git restore --staged : will reverse all the staged so far
 git remote add origin path : links the remote repository from website to loal repo as 'Origin'
 git branch -M main : changes working branch to main branch  
-git push -u origin main = uploads latest commits to remote origin main branch 
+git push -u origin main = uploads latest commits to remote origin main branch
+git branch - this lists all the branches in a repo
+git branch branchname == crates a new branch with brachname
+git checkout brachname == swithces working to branchname
