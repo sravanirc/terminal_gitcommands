@@ -11,3 +11,4 @@ git push -u origin main = uploads latest commits to remote origin main branch
 git branch - this lists all the branches in a repo
 git branch branchname == crates a new branch with brachname
 git checkout brachname == swithces working to branchname
+git merge : first change to main(or where the changes needed to be merged to) and then typer git merge fromdir
