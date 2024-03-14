@@ -1,0 +1,21 @@
+vi filename - creates a new file, press i to insert content
+cat filename - reads the contents of a file
+cp originalfile targetcopyfile - copies contents
+clear - clears terminal
+cp -r originaldir copydir  - copies entire directories including subdirects and files (-r == recursive)
+mv originalname newname - renames files or directories
+rm filename - removes file
+rmdir dirname - removes the directory
+mkdir newdirname - creates a new directory
+mkdir newdir1 newdir2 newdir3 - creaes all 3 dir at once
+ls - lists all files and folders
+ls -a : lists everything including hidden 
+ls -l : lists all files along with metadat(permissions)
+ls *commands.txt  = list everyfile that has commands.txt in its name at the end
+mkdir newdir/subdir - creates a subdirectory inside a directory
+cd newdir- changes directory to newdir
+cd .. - changes directory to parent directory
+pwd - prints current working directpry
+wc filename - outputs 3 numbers num1 num2 num3 - num1 is num of lines, num 2 is num of words and num3 is number of charanctesr
+* - wildcard
+? - placeholder for one character
